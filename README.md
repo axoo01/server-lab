@@ -2,7 +2,7 @@
 
 A basic backend service that acknowledges a user's visit.
 
-## 🚀 How to Run
+## How to Run
 
 1. Navigate to the server folder:
    ```bash
