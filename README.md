@@ -1,4 +1,4 @@
-# My First Node.js Server
+# Node.js Server
 
 A basic backend service that acknowledges a user's visit.
 
